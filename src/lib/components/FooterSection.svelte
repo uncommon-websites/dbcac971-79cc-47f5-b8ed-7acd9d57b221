@@ -1,16 +1,15 @@
 <script>
   const features = [
-    "Stricted permissions", "Vendor access to bill of materials", "Vendor management", "Deletions of data prevented, write-only", "Every commit preserved", "Team permissions",
-    "Assembly reparenting within a bill of materials", "Generate a bill of materials from a design", "Design releases", "Clear to build management", "Vendor management", "Easily load a bill of materials from a design",
-    "Detailed bill of materials item history", "Revision tracking for all parts", "Alternates tracking", "Live redlined bill of materials changes", "3D CAD viewers", "Mechanical drawings",
-    "Detailed bill of materials item history", "Revision tracking for all parts", "Alternates tracking", "Live redlined bill of materials changes", "Firmware versioning",
-    "Electrical bills of materials", "Electrical layouts", "Electrical schematics", "Full bill of materials edit history", "Mechanical bills of materials", "Project access for members",
-    "Vendor management", "Vendor access to bill of materials", "Deletions of data prevented, write-only", "Team permissions", "Generate a bill of materials from a design",
-    "Design releases", "Vendor restricted permissions", "Clear to build management", "Vendor management", "Easily load a bill of materials from a design", "Detailed bill of materials item history",
-    "Part number management", "Procurement tracking", "Clear to build management", "Design releases", "Create custom columns for a bill of materials of filtering",
-    "Mechanical drawings", "3D CAD viewers", "Revision tracking for all parts", "Alternates tracking", "Create custom columns for a bill of materials of filtering", "Download attachments from bill of materials",
-    "Create custom columns for a bill of materials", "Full bill of materials edit history", "Live redlined bill of materials changes", "Electrical schematics",
-    "Firmware versioning", "Electrical layouts", "Full bill of materials edit history", "Live redlined bill of materials changes"
+    "Real-time order tracking", "Kitchen-bar synchronization", "Digital menu updates", "Staff coordination tools", "Order priority flagging", "Table management",
+    "Inventory tracking", "Low stock alerts", "Supplier management", "Recipe management", "Prep time tracking", "Order analytics",
+    "Complete order history", "Staff messaging", "Special request notes", "POS integration", "Multi-station displays", "Mobile access",
+    "Seasonal menu switching", "Version history", "Instant menu changes", "Category organization", "Drag-and-drop ordering", "Custom drink fields",
+    "Order modification tracking", "Service time analytics", "Peak hour optimization", "Staff performance metrics", "Customer wait time tracking", "VIP table flagging",
+    "Automated reordering", "Supplier portal access", "Stock level monitoring", "Ingredient tracking", "Waste reduction analytics", "Cost management",
+    "Team permissions", "Role-based access", "Shift scheduling", "Multi-location support", "Cloud backup", "Offline mode",
+    "Drink popularity tracking", "Sales analytics", "Revenue reporting", "Inventory cost tracking", "Profit margin analysis", "Export reports",
+    "Touch-screen optimized", "Tablet support", "Phone notifications", "Display board management", "Custom color coding", "Sound alerts",
+    "Recipe consistency", "Bartender notes", "Training mode", "Onboarding tools", "Help documentation", "24/7 support"
   ];
 </script>
 
@@ -49,9 +48,9 @@
        </div>
        
        <p class="text-lg text-gray-600 mb-8 leading-relaxed">
-          Do you want to revolutionize how your team collaborates and builds hardware together? You need Config.
+          Ready to transform your bar operations and deliver faster, better service? Get started with BarBoards today.
        </p>
-       <button class="bg-[#2563EB] text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition-colors font-semibold text-sm">
+       <button class="bg-black text-white px-6 py-3 rounded-lg hover:bg-gray-800 transition-colors font-semibold text-sm">
           Get started
        </button>
     </div>
@@ -63,12 +62,13 @@
         <div class="flex items-center gap-2">
            <div class="w-5 h-5 bg-white text-black rounded flex items-center justify-center">
               <svg width="12" height="12" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                  <path d="M12 2L2 7V17L12 22L22 17V7L12 2Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                  <path d="M12 8L16 10V14L12 16L8 14V10L12 8Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                  <rect x="3" y="3" width="18" height="18" rx="2" stroke="currentColor" stroke-width="2"/>
+                  <line x1="3" y1="9" x2="21" y2="9" stroke="currentColor" stroke-width="2"/>
+                  <line x1="9" y1="9" x2="9" y2="21" stroke="currentColor" stroke-width="2"/>
               </svg>
            </div>
-           <span class="font-bold text-sm">Config @ 2025</span>
-           <span class="text-gray-500 text-xs ml-2">Designed in the United States</span>
+           <span class="font-bold text-sm">BarBoards © 2025</span>
+           <span class="text-gray-500 text-xs ml-2">Built for hospitality professionals</span>
         </div>
         
         <div class="flex items-center gap-6 text-xs text-gray-400">

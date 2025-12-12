@@ -5,10 +5,10 @@
   <div class="max-w-[1200px] mx-auto px-6">
     <div class="text-center mb-16">
       <h2 class="text-5xl font-bold mb-6 tracking-tight text-gray-900 leading-tight">
-        Welcome Your<br>Vendors In
+        Inventory & Supplier<br>Management
       </h2>
       <p class="text-lg text-gray-600 max-w-2xl mx-auto leading-relaxed">
-        Data sent to vendors doesn't get lost with Config. Ditch email for a solution that's secure, traceable, and easy-to-use.
+        Track stock levels, manage supplier relationships, and automate reordering. Never run out of your most popular spirits during peak hours.
       </p>
     </div>
 
@@ -69,13 +69,13 @@
           
           <!-- Package Details -->
           <div class="w-72 bg-gray-50 border-l border-gray-200 p-6 flex flex-col">
-             <h3 class="font-bold text-sm text-gray-900 mb-4">Enclosure Anodization Package</h3>
+             <h3 class="font-bold text-sm text-gray-900 mb-4">Monthly Spirits Order</h3>
              
              <div class="flex items-center gap-2 mb-4">
                 <div class="w-6 h-6 bg-red-500 rounded-full text-white flex items-center justify-center text-[10px] font-bold">P</div>
                 <div>
                    <div class="text-xs font-bold text-gray-900">Peter Gandolfini</div>
-                   <div class="text-[10px] text-gray-500">Mechanical Engineer at Config · 8d</div>
+                   <div class="text-[10px] text-gray-500">Bar Manager at The Copper Lounge · 8d</div>
                 </div>
              </div>
              
@@ -95,11 +95,11 @@
     </div>
 
     <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
-      <!-- Vendor BOM Access -->
+      <!-- Supplier Portal -->
       <div class="bg-gradient-to-br from-[#8B3A75] to-[#6B2A55] rounded-xl p-8 text-white h-[300px] relative overflow-hidden">
-         <h3 class="text-lg font-bold mb-2">Vendor BOM Access</h3>
+         <h3 class="text-lg font-bold mb-2">Supplier Portal</h3>
          <p class="text-pink-100 text-xs mb-6 max-w-xs">
-            Give multiple manufacturers access to the same BOM and they'll only see subassemblies they're building.
+            Give suppliers direct access to your inventory needs. They see what you need, when you need it, streamlining the ordering process.
          </p>
          
          <!-- Mini Table UI -->
@@ -143,7 +143,7 @@
       <div class="md:col-span-2 bg-gradient-to-br from-[#C28E2B] to-[#A6761D] rounded-xl p-8 text-white h-[300px] relative overflow-hidden">
          <h3 class="text-lg font-bold mb-2">Structured Permissions for Vendors</h3>
          <p class="text-yellow-100 text-xs mb-6 max-w-md">
-            Invite multiple teams from the same vendor and give each of them different granular permissions for designs and projects they can access within Config.
+            Control access levels for different supplier teams. Give each team specific permissions for inventory data and ordering capabilities they need within BarBoards.
          </p>
          
          <!-- Permissions UI -->

@@ -1,12 +1,12 @@
 <script>
-  let activeTab = 'Geometry';
-  const tabs = ['Geometry', 'Drawing', 'Layout', 'Schematic'];
+  let activeTab = 'Orders';
+  const tabs = ['Orders', 'Kitchen', 'Bar', 'Messages'];
 </script>
 
 <section class="py-24 bg-white text-center">
   <div class="max-w-[1200px] mx-auto px-6">
     <h2 class="text-5xl font-bold mb-6 tracking-tight text-gray-900">
-      Magical Design<br>Reviews
+      Real-Time Team<br>Communication
     </h2>
     
     <!-- Tabs -->
@@ -24,8 +24,8 @@
     </div>
 
     <p class="text-lg text-gray-600 mb-16 max-w-2xl mx-auto leading-relaxed">
-      Collaborate with your team on every revision of every part right in the browser.<br>
-      Add annotations, comments, and complete reviews.
+      Keep your entire bar and kitchen staff connected in real-time.<br>
+      Share updates, flag issues, and coordinate seamlessly during peak service.
     </p>
 
     <!-- UI Mockup -->

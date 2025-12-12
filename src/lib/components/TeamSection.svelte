@@ -5,22 +5,22 @@
   <div class="max-w-[1200px] mx-auto px-6">
     <div class="mb-16">
       <h2 class="text-5xl font-bold mb-6 tracking-tight text-gray-900 leading-tight">
-        Finally. Your Team, on<br>the Same Page
+        Your Entire Staff,<br>Perfectly Coordinated
       </h2>
       <p class="text-lg text-gray-600 max-w-2xl leading-relaxed">
-        Config brings together all your teams to speed up and simplify shipping high-quality hardware.
+        BarBoards brings together bartenders, servers, and kitchen staff to deliver faster service and happier customers.
       </p>
     </div>
 
     <div class="grid grid-cols-1 lg:grid-cols-3 gap-6">
       <!-- Left Column Group -->
       <div class="lg:col-span-2 flex flex-col gap-6">
-        <!-- Builds and Procurement Card -->
+        <!-- Order Analytics Card -->
         <div class="bg-gradient-to-br from-[#4B88A2] to-[#3B7288] rounded-2xl p-8 text-white relative overflow-hidden h-[400px]">
            <div class="relative z-10">
-              <h3 class="text-xl font-bold mb-2">Builds and Procurement</h3>
+              <h3 class="text-xl font-bold mb-2">Order Analytics</h3>
               <p class="text-blue-100 text-sm max-w-sm mb-8">
-                 Birds-eye view of your build progress without relying on out-of-date and error-prone spreadsheets.
+                 Track order status and completion rates in real-time. Identify bottlenecks and optimize your bar's workflow.
               </p>
               
               <!-- Chart UI -->
@@ -94,35 +94,35 @@
 
         <!-- Bottom Row -->
         <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
-           <!-- Smart Part Numbers -->
+           <!-- Table Management -->
            <div class="bg-[#1F2937] rounded-2xl p-8 text-white flex flex-col justify-between h-[280px]">
               <div>
-                 <h3 class="text-lg font-bold mb-2">Smart Part Numbers</h3>
+                 <h3 class="text-lg font-bold mb-2">Table Management</h3>
                  <p class="text-gray-400 text-xs mb-4">
-                    Designate part type-specific families in highly customizable number schemes.
+                    Track which tables have active orders and their current status at a glance.
                  </p>
               </div>
               <div class="text-center mt-auto">
                  <div class="text-5xl font-mono font-bold tracking-tighter flex items-center justify-center gap-2">
-                    <span class="text-gray-500">415</span>
-                    <span class="text-gray-600">-</span>
-                    <span class="text-white">1986</span>
+                    <span class="text-gray-500">TABLE</span>
+                    <span class="text-gray-600">·</span>
+                    <span class="text-white">12</span>
                  </div>
                  <div class="flex justify-between px-8 mt-2 text-[10px] text-gray-500 uppercase tracking-widest">
-                    <span>Commodity Code</span>
-                    <span>Part Identifier</span>
+                    <span>Active Orders</span>
+                    <span>Ready to Serve</span>
                  </div>
               </div>
            </div>
 
-           <!-- One-Click Ownership -->
+           <!-- Priority Flagging -->
            <div class="bg-[#1D4ED8] rounded-2xl p-8 text-white flex flex-col items-center text-center justify-center h-[280px]">
               <div class="bg-white text-gray-900 px-4 py-2 rounded-lg font-bold text-sm mb-6 shadow-lg flex items-center gap-2">
-                 <span>👤</span> Takeover as DRI
+                 <span>🚨</span> Mark as Priority
               </div>
-              <h3 class="text-lg font-bold mb-2">One-Click Ownership</h3>
+              <h3 class="text-lg font-bold mb-2">Priority Flagging</h3>
               <p class="text-blue-200 text-xs">
-                 You don't have to give up accountability to make hand-off easier. Easily take ownership of any part.
+                 Flag urgent orders or VIP tables so your team knows exactly what needs immediate attention during busy shifts.
               </p>
            </div>
         </div>
@@ -130,9 +130,9 @@
 
       <!-- Right Column -->
       <div class="bg-gradient-to-br from-[#BE4B6A] to-[#9B3B55] rounded-2xl p-8 text-white relative overflow-hidden h-full min-h-[600px]">
-         <h3 class="text-xl font-bold mb-2">Capture Every Decision</h3>
+         <h3 class="text-xl font-bold mb-2">Complete Order History</h3>
          <p class="text-pink-100 text-sm mb-8">
-            Fully reviewable revision and commit history for every part in your project. Never question which version or which part ever again.
+            Full audit trail of every order from placement to completion. Track timing, modifications, and service quality for continuous improvement.
          </p>
          
          <!-- Timeline UI -->

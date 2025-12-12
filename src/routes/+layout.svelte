@@ -3,7 +3,7 @@
 </script>
 
 <svelte:head>
-	<title>Config - Superpowers for Hardware Teams</title>
+	<title>BarBoards - Real-Time Bar & Kitchen Communication</title>
 </svelte:head>
 
 <slot />
